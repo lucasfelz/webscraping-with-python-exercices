@@ -1,0 +1,7 @@
+# ignorar
+
+scrapingEnv/.venv
+.venv
+
+scrapingEnv/
+scrapingEnv/
